@@ -1,0 +1,115 @@
+{
+  "stages": [
+    {
+      "n": 1,
+      "title": "Opening",
+      "blurb": "Begin with Gone Fishing and Chapter 1, the opening checkpoints in this suggested route. Story comes first as a planning assumption about reaching the game state needed for later tasks; actual unlock dependencies are not verified.",
+      "trophyIds": [
+        2,
+        3
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Chapters 2–4",
+      "blurb": "Complete Chapters 2, 3 and 4 in their stated sequence. Check awards at each boundary rather than assuming mission completion is chapter completion.",
+      "trophyIds": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Heists and story missions",
+      "blurb": "Work through the named mission completions. Their placement together is organizational; the descriptions do not establish the order or unlock dependencies between them.",
+      "trophyIds": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Friends and strangers",
+      "blurb": "Finish the named characters' final missions and eight stranger strands. Review Actions Speak Louder now, before major choices or the finale: its choice wording creates a precautionary missable risk, though no lockout is confirmed.",
+      "trophyIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "n": 5,
+      "title": "The finale",
+      "blurb": "Complete the final mission after reviewing the choice warning. Placing optional strands earlier is a precaution, not evidence that post-finale access is lost.",
+      "trophyIds": [
+        7
+      ]
+    },
+    {
+      "n": 6,
+      "title": "See all of Leonida",
+      "blurb": "Use exploration to work toward every meditation spot, card sets, location actions, vehicle discoveries, all of Leonida and garage ownership. Spread the long counts across earlier travel when possible; locations and exact unlocks are not supplied.",
+      "trophyIds": [
+        28,
+        30,
+        31,
+        35,
+        42,
+        54
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Activities and feats",
+      "blurb": "Finish distinct activities, robbery conditions and remaining feats, including Actions Speak Louder. Spread the 250-stunt, 50-challenge and money totals through the route rather than saving every count for this stage; this is planning advice inferred from the totals.",
+      "trophyIds": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        29,
+        32,
+        33,
+        34,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55
+      ]
+    },
+    {
+      "n": 8,
+      "title": "One hundred percent",
+      "blurb": "Audit the remaining requirements for 100% Completion last. The description does not define the game's completion checklist, so do not assume earning the other trophies alone guarantees 100%.",
+      "trophyIds": [
+        14
+      ]
+    }
+  ],
+  "note": "The platinum (id 1) is earned automatically when the other 54 trophies are earned."
+}
