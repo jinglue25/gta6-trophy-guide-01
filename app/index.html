@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0c1522">
+  <meta name="description" content="An original offline GTA VI trophy guide, roadmap and personal progress ledger.">
+  <title>Leonida Ledger — GTA VI Trophy Guide & Tracker</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#list">Skip to trophies</a>
+  <header class="masthead">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">LL</span><span>LEONIDA LEDGER<small>THE INDEPENDENT TROPHY FIELD GUIDE</small></span></div>
+    <span class="edition">GRAND THEFT AUTO VI <span>/</span> PS5 EDITION</span>
+  </header>
+  <div class="hero">
+    <div class="hero-copy"><span class="eyebrow">YOUR ROAD TO THE PLATINUM</span><h1>A little ambition.<br><em>A Leonida legend.</em></h1><p>GTA VI Trophy Guide & Tracker</p><div class="list-makeup">55 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze</div></div>
+    <section class="progress-card" aria-label="Trophy progress"><span class="eyebrow" id="save-label">YOUR PROGRESS · SAVED ON THIS DEVICE</span><div class="progress-numbers"><div><strong id="earned-count">0</strong><span>/ 55 earned</span></div><b id="percent">0%</b></div><div class="progress-track" id="progress-bar" role="progressbar" aria-label="Earned trophies" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0"><span id="progress-fill"></span></div><div id="grade-summary" class="grade-summary"></div></section>
+  </div>
+  <main>
+    <section class="toolbar" aria-label="Find trophies">
+      <div class="search-line"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search trophies or requirements…" aria-label="Search trophies"></label><label class="grade-select"><span class="sr-only">Trophy grade</span><select id="grade"><option value="all">All grades</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label><button id="export" class="utility">Export</button><button id="import" class="utility">Import</button><input type="file" id="import-file" accept=".json,application/json" hidden></div>
+      <div class="filter-line"><div class="chips" role="group" aria-label="Trophy kind"><button data-kind="all" class="active">All</button><button data-kind="story">Story</button><button data-kind="missable">Missable</button><button data-kind="collectibles">Collectibles</button><button data-kind="activities">Activities</button><button data-kind="online">Online</button></div><label class="spoiler-switch"><input id="spoilers" type="checkbox"><span class="switch" aria-hidden="true"></span>Hide story spoilers</label></div>
+    </section>
+    <div class="tab-bar" role="tablist" aria-label="Guide views"><button data-view="checklist" role="tab" class="active">Checklist <span>55</span></button><button data-view="roadmap" role="tab">Roadmap <span>08</span></button><button data-view="missables" role="tab">Missables <span class="risk-count">01</span></button><span class="tab-note">EVERY TROPHY. YOUR OWN PACE.</span></div>
+    <div class="workspace"><section id="list" tabindex="-1" aria-label="Trophy guide"></section><aside id="detail" aria-label="Selected trophy guide"></aside></div>
+    <p id="status" role="status" aria-live="polite"></p>
+  </main>
+  <footer><span class="footer-brand">LEONIDA LEDGER</span><p>Unofficial fan-made guide · Works fully offline · No Rockstar artwork or logos.<br>Trophy names and descriptions are as PlayStation publishes them. Original guide notes are grounded in those descriptions and not yet verified in-game.</p><span>BUILT FOR THE LONG ROAD.</span></footer>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
