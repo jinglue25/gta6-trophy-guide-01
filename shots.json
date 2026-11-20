@@ -1,0 +1,6 @@
+[
+  {"file":"1-cover.jpg","path":"/?seed=13&open=1","viewport":{"width":1280,"height":800}},
+  {"file":"2-roadmap.jpg","path":"/?view=roadmap&seed=13","viewport":{"width":1280,"height":800}},
+  {"file":"3-missables.jpg","path":"/?view=missables&seed=13","viewport":{"width":1280,"height":800}},
+  {"file":"4-spoilers.jpg","path":"/?spoilers=on&seed=13&open=7","viewport":{"width":1280,"height":800}}
+]
